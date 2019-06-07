@@ -1,0 +1,1 @@
+The integration test, we write the function is that Testing offline data upload function. We chose to add an offline data to see if the system could receive the data. 
